@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/KowsikaJ/LEETCODE/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
