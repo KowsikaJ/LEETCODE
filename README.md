@@ -29,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
