@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KowsikaJ/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/KowsikaJ/LEETCODE/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/KowsikaJ/LEETCODE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Matrix
