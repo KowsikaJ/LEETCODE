@@ -18,9 +18,9 @@ class Solution {
         
         int[] ans=new int[k];
         for(int i=0;i<k;i++){
-            if(res[i]!=0){
+            //if(res[i]!=0){
                 ans[i]=res[i];
-            }
+            //}
             
         }
         
