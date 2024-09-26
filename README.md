@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KowsikaJ/LEETCODE/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
