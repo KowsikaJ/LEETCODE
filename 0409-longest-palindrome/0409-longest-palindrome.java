@@ -17,7 +17,7 @@ class Solution {
         }
         return l;
         */
-        int[] arr=new int[52];
+        /*int[] arr=new int[52];
         for(char c:s.toCharArray()){
             if(Character.isUpperCase(c)){
                 arr[c-'A']++;
@@ -27,7 +27,7 @@ class Solution {
             }
         }
         int c=0,o=0;
-        boolean flag=false;
+        //boolean flag=false;
         for(int i=0;i<arr.length;i++){
             if(arr[i]%2==0){
                 c+=arr[i];
@@ -43,6 +43,26 @@ class Solution {
             
         }
         return c+o;
+        */
+        int[] array = new int[58];
+        int count = 0,odd = 0;
+
+        for(char each : s.toCharArray()){
+            array[each - 'A']++;
+        }
+
+        for(int each : array){
+            if(each % 2 == 0 && each != 0){
+                count += each;
+            }else if(each % 2 == 1 && each != 1){
+                count += each -1; 
+                odd = 1;
+            }else if(each == 1){
+                odd = 1;
+            }
+        }
+
+        return count + odd;
         
     }
 }
