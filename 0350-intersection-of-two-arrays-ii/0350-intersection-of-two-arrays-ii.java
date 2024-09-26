@@ -1,23 +1,30 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        List<Integer> r=new ArrayList<>();
+        //List<Integer> r=new ArrayList<>();
+        int n=Math.min(nums1.length,nums2.length);
+        int[] res=new int[n];
         boolean[] used=new boolean[nums2.length];
         int k=0;
         for(int i=0;i<nums1.length;i++){
             for(int j=0;j<nums2.length;j++){
                 if(nums1[i]==nums2[j] && !used[j]){
-                    r.add(nums1[i]);
+                    res[k]=nums1[i];
+                    k++;
                     used[j]=true;
                     break; //if break is not given the same element at a index is checked with another same element in nums2   
                 }
             }
         }
         
-        int[] res=new int[r.size()];
-        for(int i=0;i<r.size();i++){
-            res[i]=r.get(i);
+        int[] ans=new int[k];
+        for(int i=0;i<k;i++){
+            if(res[i]!=0){
+                ans[i]=res[i];
+            }
+            
         }
-        return res;
+        
+        return ans;
         
     }
 }
