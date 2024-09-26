@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
+| [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/KowsikaJ/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Matrix
 |  |
 | ------- |
@@ -154,8 +156,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
