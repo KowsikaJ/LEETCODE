@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/KowsikaJ/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
