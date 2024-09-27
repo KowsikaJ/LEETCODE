@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
