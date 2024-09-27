@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KowsikaJ/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 ## Greedy
 |  |
 | ------- |
