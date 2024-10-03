@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
+| [1694-make-sum-divisible-by-p](https://github.com/KowsikaJ/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/KowsikaJ/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/KowsikaJ/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Segment Tree
 |  |
 | ------- |
