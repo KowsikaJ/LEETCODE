@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KowsikaJ/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
