@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/KowsikaJ/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/KowsikaJ/LEETCODE/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
