@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/KowsikaJ/LEETCODE/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/KowsikaJ/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/KowsikaJ/LEETCODE/tree/master/0661-image-smoother) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
