@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
