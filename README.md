@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
