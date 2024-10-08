@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
+| [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/KowsikaJ/LEETCODE/tree/master/0661-image-smoother) |
+| [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
