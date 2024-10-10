@@ -6,7 +6,7 @@ class Solution {
         backtrack(1,l,res,n,k);
         return res;
     }
-    private void backtrack(int start,List<Integer> l,List<List<Integer>> res,int n,int k){
+    public void backtrack(int start,List<Integer> l,List<List<Integer>> res,int n,int k){
         if(l.size()==k){
             res.add(new ArrayList<>(l));
             return;
