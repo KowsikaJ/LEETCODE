@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/KowsikaJ/LEETCODE/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KowsikaJ/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KowsikaJ/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
