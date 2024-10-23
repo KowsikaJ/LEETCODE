@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
