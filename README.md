@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
+| [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String Matching
