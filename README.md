@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KowsikaJ/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/KowsikaJ/LEETCODE/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
