@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1651-shuffle-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/KowsikaJ/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
+| [1651-shuffle-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1751-slowest-key](https://github.com/KowsikaJ/LEETCODE/tree/master/1751-slowest-key) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
