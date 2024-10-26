@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/KowsikaJ/LEETCODE/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KowsikaJ/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/KowsikaJ/LEETCODE/tree/master/1751-slowest-key) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
