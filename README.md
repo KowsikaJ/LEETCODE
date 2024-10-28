@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KowsikaJ/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/KowsikaJ/LEETCODE/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1304-longest-happy-string) |
+| [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KowsikaJ/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
