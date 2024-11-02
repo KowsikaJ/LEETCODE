@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KowsikaJ/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KowsikaJ/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
