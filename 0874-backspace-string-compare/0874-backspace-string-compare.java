@@ -10,6 +10,7 @@ class Solution {
             if(c[i]=='#' && sb.length()!=0){
                 sb.deleteCharAt(sb.length()-1);
                 continue;
+                
             }
             if(c[i]!='#'){
                 sb.append(c[i]);
