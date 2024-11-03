@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/KowsikaJ/LEETCODE/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 ## Number Theory
 |  |
