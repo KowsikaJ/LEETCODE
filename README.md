@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -554,5 +556,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
