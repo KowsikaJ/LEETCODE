@@ -21,7 +21,7 @@ class Solution {
 
         int ans=-1;
         int min=Integer.MAX_VALUE;
-        int[] reach=new int[n];
+        //int[] reach=new int[n];
         for(int i=0;i<n;i++){
             int c=0;
             for(int j=0;j<n;j++){
@@ -30,7 +30,7 @@ class Solution {
 
                 }
             }
-            reach[i]=c;
+            //reach[i]=c;
             if(c<=min){
                 min=c;
                 ans=i;
