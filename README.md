@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
 | ------- |
