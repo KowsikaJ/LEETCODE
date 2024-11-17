@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KowsikaJ/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KowsikaJ/LEETCODE/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/KowsikaJ/LEETCODE/tree/master/0661-image-smoother) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
