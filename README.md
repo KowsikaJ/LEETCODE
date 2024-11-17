@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KowsikaJ/LEETCODE/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/KowsikaJ/LEETCODE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KowsikaJ/LEETCODE/tree/master/0168-excel-sheet-column-title) |
