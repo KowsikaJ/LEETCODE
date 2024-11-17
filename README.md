@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KowsikaJ/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/KowsikaJ/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KowsikaJ/LEETCODE/tree/master/0068-text-justification) |
