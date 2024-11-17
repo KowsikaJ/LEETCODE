@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/KowsikaJ/LEETCODE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/KowsikaJ/LEETCODE/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0212-word-search-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
