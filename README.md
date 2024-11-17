@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
