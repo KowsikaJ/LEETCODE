@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/KowsikaJ/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/KowsikaJ/LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KowsikaJ/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KowsikaJ/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
