@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KowsikaJ/LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/KowsikaJ/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KowsikaJ/LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/KowsikaJ/LEETCODE/tree/master/0068-text-justification) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/KowsikaJ/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/KowsikaJ/LEETCODE/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0212-word-search-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
