@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KowsikaJ/LEETCODE/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/0076-minimum-window-substring) |
