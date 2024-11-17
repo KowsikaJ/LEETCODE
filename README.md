@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KowsikaJ/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/KowsikaJ/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KowsikaJ/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/KowsikaJ/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/KowsikaJ/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KowsikaJ/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KowsikaJ/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KowsikaJ/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KowsikaJ/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KowsikaJ/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/KowsikaJ/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -613,4 +619,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KowsikaJ/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
