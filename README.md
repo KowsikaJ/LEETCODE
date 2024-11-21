@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KowsikaJ/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/KowsikaJ/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 ## Number Theory
