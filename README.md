@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/KowsikaJ/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0212-word-search-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KowsikaJ/LEETCODE/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/KowsikaJ/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KowsikaJ/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -461,12 +464,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KowsikaJ/LEETCODE/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/KowsikaJ/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KowsikaJ/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KowsikaJ/LEETCODE/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
