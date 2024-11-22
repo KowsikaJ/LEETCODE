@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/KowsikaJ/LEETCODE/tree/master/0661-image-smoother) |
 | [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
