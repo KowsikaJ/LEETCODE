@@ -5,7 +5,7 @@ class Solution {
         int ri=m+n-1;
 
         while(nind>=0){
-            if(mind>=0 && nums1[mind]>nums2[nind]){
+            if(mind>=0 && nums1[mind]>=nums2[nind]){
                 nums1[ri]=nums1[mind];
                 mind--;
             }
