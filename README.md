@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KowsikaJ/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KowsikaJ/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KowsikaJ/LEETCODE/tree/master/0217-contains-duplicate) |
