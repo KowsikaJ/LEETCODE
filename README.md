@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KowsikaJ/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3189-find-champion-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/3189-find-champion-ii) |
 ## Union Find
 |  |
 | ------- |
