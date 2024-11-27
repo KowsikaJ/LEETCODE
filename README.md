@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KowsikaJ/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3189-find-champion-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
