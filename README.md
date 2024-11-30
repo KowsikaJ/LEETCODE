@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/KowsikaJ/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KowsikaJ/LEETCODE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/KowsikaJ/LEETCODE/tree/master/2226-rings-and-rods) |
+| [2235-capitalize-the-title](https://github.com/KowsikaJ/LEETCODE/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/KowsikaJ/LEETCODE/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KowsikaJ/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
