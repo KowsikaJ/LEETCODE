@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/KowsikaJ/LEETCODE/tree/master/1972-rotating-the-box) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KowsikaJ/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/KowsikaJ/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
