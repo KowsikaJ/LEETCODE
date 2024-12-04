@@ -1,5 +1,5 @@
 //brute force approach
-/*class Solution {
+class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int sum=0,s=0,d=0,diff=Integer.MAX_VALUE;
         for (int i = 0; i < nums.length - 2; i++) { // First integer
@@ -18,9 +18,9 @@
         return sum;
         
     }
-}*/
+}
 
-class Solution {
+/*class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int closest = nums[0] + nums[1] + nums[2];
 
@@ -37,4 +37,4 @@ class Solution {
 
         return closest;
     }
-}
+}*/
