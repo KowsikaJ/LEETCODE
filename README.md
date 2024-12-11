@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/KowsikaJ/LEETCODE/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KowsikaJ/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KowsikaJ/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KowsikaJ/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KowsikaJ/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KowsikaJ/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KowsikaJ/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KowsikaJ/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KowsikaJ/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KowsikaJ/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KowsikaJ/LEETCODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
