@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/KowsikaJ/LEETCODE/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KowsikaJ/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/KowsikaJ/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KowsikaJ/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/KowsikaJ/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KowsikaJ/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
