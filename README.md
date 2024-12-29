@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/KowsikaJ/LEETCODE/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/KowsikaJ/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KowsikaJ/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
@@ -821,4 +822,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/KowsikaJ/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KowsikaJ/LEETCODE/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KowsikaJ/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
