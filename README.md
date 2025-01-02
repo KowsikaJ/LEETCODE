@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/KowsikaJ/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Trie
 |  |
 | ------- |
