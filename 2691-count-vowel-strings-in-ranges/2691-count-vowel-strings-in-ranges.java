@@ -13,7 +13,7 @@ class Solution {
         for(int i=0;i<len;i++){
             int count=vowelcount[queries[i][1]];
             if(queries[i][0]-1>=0) count-=vowelcount[queries[i][0]-1];
-            if(count>0) res[i]=count;
+            res[i]=count;
         }
         return res;
     }
