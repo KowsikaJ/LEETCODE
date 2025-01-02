@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KowsikaJ/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KowsikaJ/LEETCODE/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KowsikaJ/LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/KowsikaJ/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KowsikaJ/LEETCODE/tree/master/0051-n-queens) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KowsikaJ/LEETCODE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
