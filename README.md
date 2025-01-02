@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/KowsikaJ/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/KowsikaJ/LEETCODE/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/KowsikaJ/LEETCODE/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/KowsikaJ/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KowsikaJ/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/KowsikaJ/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/KowsikaJ/LEETCODE/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
