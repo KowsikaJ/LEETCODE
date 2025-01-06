@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KowsikaJ/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
