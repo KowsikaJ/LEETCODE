@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KowsikaJ/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KowsikaJ/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/KowsikaJ/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/KowsikaJ/LEETCODE/tree/master/2238-a-number-after-a-double-reversal) |
 | [2722-prime-in-diagonal](https://github.com/KowsikaJ/LEETCODE/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/KowsikaJ/LEETCODE/tree/master/1751-slowest-key) |
 | [1873-longest-nice-substring](https://github.com/KowsikaJ/LEETCODE/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KowsikaJ/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/KowsikaJ/LEETCODE/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
