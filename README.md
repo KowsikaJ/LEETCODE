@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/KowsikaJ/LEETCODE/tree/master/2238-a-number-after-a-double-reversal) |
 | [2722-prime-in-diagonal](https://github.com/KowsikaJ/LEETCODE/tree/master/2722-prime-in-diagonal) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KowsikaJ/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KowsikaJ/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/KowsikaJ/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Trie
 |  |
