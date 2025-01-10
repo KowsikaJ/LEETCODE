@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/KowsikaJ/LEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/KowsikaJ/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/KowsikaJ/LEETCODE/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KowsikaJ/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1044-find-common-characters) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KowsikaJ/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/KowsikaJ/LEETCODE/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/KowsikaJ/LEETCODE/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
