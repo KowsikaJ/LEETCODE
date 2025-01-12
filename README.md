@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KowsikaJ/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/KowsikaJ/LEETCODE/tree/master/0127-word-ladder) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KowsikaJ/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KowsikaJ/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
