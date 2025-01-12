@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1070-convert-to-base-2](https://github.com/KowsikaJ/LEETCODE/tree/master/1070-convert-to-base-2) |
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/KowsikaJ/LEETCODE/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/KowsikaJ/LEETCODE/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KowsikaJ/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KowsikaJ/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/KowsikaJ/LEETCODE/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/KowsikaJ/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1304-longest-happy-string) |
