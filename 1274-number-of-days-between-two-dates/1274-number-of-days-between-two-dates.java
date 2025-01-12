@@ -1,5 +1,5 @@
 class Solution {
-    int[] month=new int[]{31,28,31,30,31,30,31,31,30,31,30,31};
+    int[] month={31,28,31,30,31,30,31,31,30,31,30,31};
     public int daysBetweenDates(String date1, String date2) {
         return Math.abs(cal(date1)-cal(date2));
     }
