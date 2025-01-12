@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/KowsikaJ/LEETCODE/tree/master/1002-maximum-width-ramp) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/KowsikaJ/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/KowsikaJ/LEETCODE/tree/master/1297-maximum-number-of-balloons) |
