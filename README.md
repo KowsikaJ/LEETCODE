@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KowsikaJ/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KowsikaJ/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/KowsikaJ/LEETCODE/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KowsikaJ/LEETCODE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2226-rings-and-rods](https://github.com/KowsikaJ/LEETCODE/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/KowsikaJ/LEETCODE/tree/master/2235-capitalize-the-title) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KowsikaJ/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KowsikaJ/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KowsikaJ/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/KowsikaJ/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KowsikaJ/LEETCODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
