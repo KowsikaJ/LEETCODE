@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KowsikaJ/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/KowsikaJ/LEETCODE/tree/master/3636-check-balanced-string) |
+| [3684-substring-matching-pattern](https://github.com/KowsikaJ/LEETCODE/tree/master/3684-substring-matching-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KowsikaJ/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/KowsikaJ/LEETCODE/tree/master/3684-substring-matching-pattern) |
 ## Number Theory
 |  |
 | ------- |
