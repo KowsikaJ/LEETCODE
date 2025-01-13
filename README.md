@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/KowsikaJ/LEETCODE/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/KowsikaJ/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KowsikaJ/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/KowsikaJ/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/KowsikaJ/LEETCODE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/KowsikaJ/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/KowsikaJ/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/KowsikaJ/LEETCODE/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KowsikaJ/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/3451-string-compression-iii) |
