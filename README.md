@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/KowsikaJ/LEETCODE/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KowsikaJ/LEETCODE/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/KowsikaJ/LEETCODE/tree/master/3636-check-balanced-string) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/KowsikaJ/LEETCODE/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
 | ------- |
