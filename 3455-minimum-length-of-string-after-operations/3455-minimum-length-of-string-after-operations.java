@@ -10,7 +10,7 @@ class Solution {
 
         for(char ch:freq){
             if(ch==0) continue;
-            if(ch%2==0) total+=2;
+            else if(ch%2==0) total+=2;
             else total+=1;
         }
         return total;
