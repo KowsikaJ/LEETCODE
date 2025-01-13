@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/KowsikaJ/LEETCODE/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/KowsikaJ/LEETCODE/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KowsikaJ/LEETCODE/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/KowsikaJ/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
