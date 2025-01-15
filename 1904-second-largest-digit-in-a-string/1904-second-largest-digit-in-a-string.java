@@ -9,7 +9,7 @@ class Solution {
                     sec=max;
                     max=num;
                 }
-                else if(num>sec && num!=max){
+                else if(num>=sec && num!=max){
                     sec=num;
                 }
             }
