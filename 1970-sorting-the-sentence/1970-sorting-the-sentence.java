@@ -1,17 +1,20 @@
 class Solution {
     public String sortSentence(String s) {
-        String[] str = s.split(" ");                // Since the String contains only whitespaces, it's safe to split the String at them
-	String[] res = new String[str.length];      // This String array will hold the rearranged words
-	StringBuilder sb = new StringBuilder();     // Instead of using '+' operator to concat repeatedly, I have created a StringBuilder object which is more efficient
-	int i = 0;                          
-	for (String elem : str) {
-		i = (int) (elem.charAt(elem.length() - 1) - '0');  // This  will extract the digit present at the end of each String and store it in i (i = index of the word in res[])
-		res[i - 1] = elem.substring(0, elem.length() - 1); // This gives the substring of each String except for the digit in the end and stores the word at an appropriate index (i - 1) in res[]
-	}
-	//append the words from res[] to StringBuilder object to form a sentence
-	for (i = 0; i < res.length - 1; i++)
-		sb.append(res[i]).append(" ");
-	sb.append(res[i]);
-	return sb.toString();
-}
+        String[] words=s.split(" ");
+        String[] ans=new String[words.length];
+        for(int i=0;i<words.length;i++){
+            int le=words[i].length();
+            String st=words[i];
+            int ind=st.charAt(le-1)-'0';
+            String newst=st.substring(0,st.length()-1);
+            ans[ind-1]=newst;
+        }
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<ans.length;i++){
+            sb.append(ans[i]+" ");
+        }
+        return sb.toString().trim();
+
+        
+    }
 }
