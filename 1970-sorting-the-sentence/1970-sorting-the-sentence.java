@@ -8,11 +8,13 @@ class Solution {
             ans[ind-1]=st.substring(0,st.length()-1);
 
         }
+        int i=0;
         StringBuilder sb=new StringBuilder();
-        for(int i=0;i<ans.length;i++){
-            sb.append(ans[i]+" ");
+        for(i=0;i<ans.length-1;i++){
+            sb.append(ans[i]).append(" ");
         }
-        return sb.toString().trim();
+        sb.append(ans[i]);
+        return sb.toString();
 
         
     }
