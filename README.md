@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/KowsikaJ/LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0787-sliding-puzzle](https://github.com/KowsikaJ/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/KowsikaJ/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KowsikaJ/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KowsikaJ/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KowsikaJ/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KowsikaJ/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/KowsikaJ/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KowsikaJ/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/KowsikaJ/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KowsikaJ/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -922,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KowsikaJ/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/KowsikaJ/LEETCODE/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KowsikaJ/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/KowsikaJ/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KowsikaJ/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -935,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KowsikaJ/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/KowsikaJ/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
