@@ -1,65 +1,27 @@
 class Solution {
     public void sortColors(int[] nums) {
-        HashMap<Integer,Integer> m=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            m.put(nums[i],m.getOrDefault(nums[i],0)+1);
+        int n=nums.length,zero=0,ones=0,two=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                zero++;
+            }
+            else if(nums[i]==1){
+                ones++;
+            }
+            else{
+                two++;
+            }
         }
         int k=0;
-        for(int i=0;i<=2;i++){
-            if(m.containsKey(i)){
-                int v=m.get(i);
-                for(int j=0;j<v;j++){
-                    nums[k++]=i;
-                }
-            }
+        for(int i=0;i<zero;i++){
+            nums[k++]=0;
+        }
+        for(int i=k+1;i<=zero+ones;i++){
+            nums[k++]=1;
+        }
+        for(int i=k+1;i<=n;i++){
+            nums[k++]=2;
         }
         
     }
 }
-
-
-
-
-
-
-
-        /*HashMap<Integer,Integer> m=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            m.put(nums[i],m.getOrDefault(nums[i],0)+1);
-        }
-        int k=0;
-        for(int i=0;i<=2;i++){
-            if(m.containsKey(i)){
-                int v=m.get(i);
-                for(int j=0;j<v;j++){
-                    nums[k++]=i;
-                }
-
-            }
-            
-        }
-        
-        int l=0,m=0,h=nums.length-1;
-        while(m<=h){
-            if(nums[m]==0){
-                swap(nums,l,m);
-                l++;
-                m++;
-            }
-            else if(nums[m]==1){
-                m++;
-            }
-            else if(nums[m]==2){
-                swap(nums,m,h);
-                h--;
-            }
-        }
-        System.out.println(nums);
-    }
-    public static void swap(int[] nums,int m,int n){
-        int t=nums[m];
-        nums[m]=nums[n];
-        nums[n]=t;
-    }
-}
-*/
