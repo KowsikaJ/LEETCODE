@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KowsikaJ/LEETCODE/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/KowsikaJ/LEETCODE/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KowsikaJ/LEETCODE/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/KowsikaJ/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KowsikaJ/LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/KowsikaJ/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KowsikaJ/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KowsikaJ/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/KowsikaJ/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/KowsikaJ/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KowsikaJ/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
