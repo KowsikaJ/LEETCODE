@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/KowsikaJ/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KowsikaJ/LEETCODE/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/KowsikaJ/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/KowsikaJ/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/KowsikaJ/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KowsikaJ/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KowsikaJ/LEETCODE/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/KowsikaJ/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/KowsikaJ/LEETCODE/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/KowsikaJ/LEETCODE/tree/master/0120-triangle) |
@@ -993,5 +995,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KowsikaJ/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
