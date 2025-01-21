@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KowsikaJ/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/KowsikaJ/LEETCODE/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/KowsikaJ/LEETCODE/tree/master/1070-convert-to-base-2) |
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/KowsikaJ/LEETCODE/tree/master/1274-number-of-days-between-two-dates) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KowsikaJ/LEETCODE/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/KowsikaJ/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/KowsikaJ/LEETCODE/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/KowsikaJ/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KowsikaJ/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KowsikaJ/LEETCODE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/KowsikaJ/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/KowsikaJ/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
@@ -987,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
