@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/KowsikaJ/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/KowsikaJ/LEETCODE/tree/master/1070-convert-to-base-2) |
+| [1115-valid-boomerang](https://github.com/KowsikaJ/LEETCODE/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/KowsikaJ/LEETCODE/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/KowsikaJ/LEETCODE/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/KowsikaJ/LEETCODE/tree/master/1289-day-of-the-week) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KowsikaJ/LEETCODE/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/KowsikaJ/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/KowsikaJ/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1115-valid-boomerang](https://github.com/KowsikaJ/LEETCODE/tree/master/1115-valid-boomerang) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/KowsikaJ/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KowsikaJ/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KowsikaJ/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/KowsikaJ/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1115-valid-boomerang](https://github.com/KowsikaJ/LEETCODE/tree/master/1115-valid-boomerang) |
 ## Monotonic Stack
 |  |
 | ------- |
