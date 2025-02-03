@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/KowsikaJ/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KowsikaJ/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KowsikaJ/LEETCODE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KowsikaJ/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
