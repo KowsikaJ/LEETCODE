@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/KowsikaJ/LEETCODE/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KowsikaJ/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KowsikaJ/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1505-create-target-array-in-the-given-order](https://github.com/KowsikaJ/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/KowsikaJ/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/KowsikaJ/LEETCODE/tree/master/1547-destination-city) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KowsikaJ/LEETCODE/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KowsikaJ/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/KowsikaJ/LEETCODE/tree/master/0874-backspace-string-compare) |
+| [1505-create-target-array-in-the-given-order](https://github.com/KowsikaJ/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KowsikaJ/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KowsikaJ/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KowsikaJ/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
